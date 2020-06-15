@@ -24,10 +24,10 @@ dependencies:
   flutter:
     sdk: flutter
   mobx:
-  mobx_codegen:
   flutter_mobx:
-  build_runner:
-
+  http:
+  flutter_staggered_animations: ^0.1.2
+  cached_network_image: ^2.2.0+1
 
 
   # The following adds the Cupertino Icons font to your application.
